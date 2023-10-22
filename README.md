@@ -14,11 +14,15 @@ pip install cs
 ```
 pip install matplotlib
 ```
+
 First extract the dataset by navigating to the dataset folder
+
 ```
 cd Company_master
 cd dataset
 ```
+
+
 To run programes, just move to the source folder inside the ipl_project folder
 
 ```

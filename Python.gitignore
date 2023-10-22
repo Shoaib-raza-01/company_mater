@@ -8,11 +8,9 @@ __pycache__/
 
 #explicitly ignoring myself (files)
 #ignoring virtual env
-/comp.env
-../comp.env
+comp.env/
+../comp.env/
 ../comp
-../dataset
-dataset
 
 
 # Distribution / packaging
